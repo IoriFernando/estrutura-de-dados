@@ -1,0 +1,2 @@
+Implementar programa usando classes 
+fazer codigo em C usando ponteiros e alocação de memória usando malloc 
